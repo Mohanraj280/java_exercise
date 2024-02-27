@@ -14,6 +14,7 @@ public class Swapping
 		temp = a;
 		a = b;
 		b = temp;
+
 	System.out.print(a+" "+temp);
 
 
